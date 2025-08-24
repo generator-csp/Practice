@@ -1,0 +1,34 @@
+.heading
+{
+    color: blue;
+    font-size: 100px;
+    font-weight: bold;
+    font-variant: small-caps;
+    box-shadow: 4px 4px 4px;
+    text-align: center;
+}
+.para
+{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 50px 50px 50px 50px;
+}
+strong
+{
+    font-weight: bolder;
+    color: brown;
+}
+.bt
+{
+    height: 80px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 20%;
+    float: inline-end;
+}
+.but
+{
+    color: aliceblue;
+    font-weight: bold;
+}
